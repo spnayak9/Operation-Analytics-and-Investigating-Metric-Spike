@@ -11,9 +11,8 @@ Operation Analytics is the process of analyzing a company's end-to-end operation
    
 Investigating metric spikes is an important aspect of Operation Analytics. It involves analyzing sudden changes or spikes such as sales, engagement, or customer satisfaction. This analysis helps to identify the root cause of the spike and take corrective action if necessary. 
 
-| Name: Shakti Prasad Nayak | 26/03/2023 |
+| Name: Shakti Prasad Nayak | 26/03/2024 |
 | :---- | :---- |
-|  |  |
 
 Approach   
 Here, in this project, we are analyzing two case studies for Operation Analytics and Investing Metric Spike. We are analyzing csv files given below-   
